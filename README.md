@@ -26,5 +26,5 @@ You can also find some instruction as well as other sites using Vno theme in [th
 
 ### 提示
 
->* 如果你想使用我的模板，请把 _posts/ 目录下的文章都去掉。
+>* _posts/ 目录下的文章都去掉。
 >* 修改 _config.yml 文件里面的内容为你自己的个人信息。
